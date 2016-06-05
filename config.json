@@ -56,7 +56,7 @@
     "name": "symfony",
     "description": "Test. Write some of symfony components using zephir language as php extension",
     "author": "tim96",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "verbose": false,
     "requires": {
         "extensions": []
